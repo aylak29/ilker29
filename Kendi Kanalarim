@@ -37,4 +37,374 @@ https://tv-trthaber.live.trt.com.tr/master.m3u8
 https://tv-trthaber.live.trt.com.tr/master_720.m3u8
 #EXTINF:0,TGRT Belgesel (600p)
 http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
+#EXTINF:0,TRT 1 | Ulusal
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=trt1&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:47,ATV | Ulusal
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=atv-canli-hd-yayin&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,Kanal D | Ulusal
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=kanal-d&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,Beyaz Tv | Ulusal
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=beyaz-tv&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,Star Tv | Ulusal
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=star-tv-canli-96&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,Show Tv | Ulusal
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=show-tv-hd-izle&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,Show Türk | Ulusal
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=show-turk-izle-3&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,Kanal 7 | Ulusal
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=kanal-7-canli-turkiye&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,Tv 360 | Ulusal
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=tv-360&stream=1&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,Tv8  | Ulusal
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=tv-8&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,Fox Tv | Ulusal
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=fox-canli-izle&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,A2 Tv | Ulusal
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=a2-tv-1&stream=1&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,Teve2 | Ulusal
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=teve2&stream=1&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,TLC Tv | Ulusal
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=tlc-tv&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,D Max | Ulusal
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=d-max&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,Tv8 İnt | Ulusal
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=tv8-int-canli&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,TGRT EU | Ulusal
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=tgrt-eu&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,Euro Star | Ulusal
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=euro-star&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,ATV Avrupa | Ulusal
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=atv-avrupa-12&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,Show Max | Ulusal
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=show-max-izle-3&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,A Haber | Haber
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=a-haber-izle-13&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,Habertürk Tv | Haber
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=haberturk-tv-hd&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,CNN Türk | Haber
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=cnn-turk-canli-yayin&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,TRT Haber | Haber
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=trt-haber&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,Haber Global | Haber
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=haber-global&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,NTV | Haber
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=ntv-canli-yayin&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,Ülke Tv | Haber
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=ulke-tv&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,Bengütürk Tv | Haber
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=benguturk-tv&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,TVNET | Haber
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=tvnet&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,Akit Tv | Haber
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=akit-tv&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,Kanal 24 | Haber
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=kanal24&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,TV100 | Haber
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=tv100&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,Ulusal Kanal | Haber
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=ulusal-kanal&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,TBMM Tv | Haber
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=tbmm-tv-canli&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,TGRT Haber | Haber
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=tgrt-haber&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,A Para | Haber
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=a-para&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,Tele1 | Haber
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=tele1&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,Halk Tv | Haber
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=halk-tv-izle-turkiye&stream=3&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,KRT Tv | Haber
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=krt-tv&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,EkoTürk Tv | Haber
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=ekoturk-tv&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,Bloomberg HT | Haber
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=bloomberg-ht-hd-izle&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,A News | Haber
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=a-news&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
+#EXTINF:0,|----------(*HD ULUSAL*) KANALLAR----------| WWW.OZBECERIKSIZLER.NET | YILMAZTV (720p)
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/yilmaztvspot.mp4?hd
+#EXTINF:0,TRT 1 HD (720p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_sd.smil/playlist.m3u8
+#EXTINF:0,TRT 1 HD yedek (720p)
+#EXTVLCOPT:network-caching=1000
+https://tv-trt1.live.trt.com.tr/master_720.m3u8
+#EXTINF:0,ATVHD TR(720p)
+#EXTVLCOPT:network-caching=1000
+http://oz.yilmaztv.net/kanal.php?k=atvhd2&type=m3u8
+#EXTINF:0,ATV sd yedek (480p)
+#EXTVLCOPT:network-caching=1000
+http://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
+#EXTINF:0,KANAL D yedek (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_kanald/kanald_sd.smil/playlist.m3u8
+#EXTINF:0,SHOW TV  (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_showturk/showturk_sd.smil/playlist.m3u8
+#EXTINF:0,360 TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b864000.m3u8
+#EXTINF:0,STAR TV  (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/playlist.m3u8
+#EXTINF:0,EURO STAR (720p)
+#EXTVLCOPT:network-caching=1000
+http://xrklj56s.rocketcdn.com/eurostar.smil/chunklist_b1828000_sltur.m3u8
+#EXTINF:0,ALMANYA TURK (720p)
+#EXTVLCOPT:network-caching=1000
+http://tv86905.radyotelekomtv.com:22808/almanyadaturktv/almanyadaturktv/playlist.m3u8
+#EXTINF:0,KANAL 7  (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_sd.smil/playlist.m3u8
+#EXTINF:0,TV 8  (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/playlist.m3u8
+#EXTINF:0,TV 8.5  (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd.smil/playlist.m3u8
+#EXTINF:0,Euro D  (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_eurod/eurod_sd.smil/playlist.m3u8
+#EXTINF:0,A2 HD  (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_a2/a2_sd.smil/playlist.m3u8
+#EXTINF:0,TEVE2  (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_teve2/teve2_sd.smil/playlist.m3u8
+#EXTINF:0,BEYAZ TV  (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_sd.smil/playlist.m3u8
+#EXTINF:0,FOX TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/playlist.m3u8
+#EXTINF:0,CNN TÜRK  (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_sd.smil/playlist.m3u8
+#EXTINF:0,A Haber  (720p)
+#EXTVLCOPT:network-caching=1000
+http://oz.yilmaztv.net/kanal.php?k=ahaberhd2&type=m3u8
+#EXTINF:0,NTV  (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_ntv/smil:ntv_sd.smil/playlist.m3u8
+#EXTINF:0,HABERTÜRK  (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_sd.smil/playlist.m3u8
+#EXTINF:0,TRT BELGESEL (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_sd.smil/playlist.m3u8
+#EXTINF:0,YABAN TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist_w745413644.m3u8
+#EXTINF:0,HABER GLOBAL  (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_haberglobal/smil:haberglobal_sd.smil/playlist.m3u8
+#EXTINF:0,24 TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_kanal24/smil:kanal24_sd.smil/playlist.m3u8
+#EXTINF:0,TRT HABER  (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_trthaber/smil:trthaber_sd.smil/playlist.m3u8
+#EXTINF:0,TGRT HABER  (720p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_tgrthaber/smil:tgrthaber_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:0,ÜLKE TV  (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_ulketv/smil:ulketv_sd.smil/playlist.m3u8
+#EXTINF:0,HALK TV  (720p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:0,A PARA  (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_apara/smil:apara_sd.smil/playlist.m3u8
+#EXTINF:0,BLOOMBERG TÜRKİYE  (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_sd.smil/playlist.m3u8
+#EXTINF:0,A SPOR  (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_sd.smil/playlist.m3u8
+#EXTINF:0,TRT SPOR  (720p)
+#EXTVLCOPT:network-caching=1000
+http://iptvmasterlink.dyndns.org:8080/Entry/trtsporhd_yeni/index.m3u8
+#EXTINF:0,SPORTS TV  (720p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_sportstv/smil:sportstv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:0,TAY TV  (720p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_taytv/smil:taytv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:0,TJK TV  (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_tjktv/smil:tjktv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:0,TRT WORLD  (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_trtworld/smil:trtworld_sd.smil/playlist.m3u8
+#EXTINF:0,WOMAN TV  (720p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_womankadin/smil:womankadin_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:0,NR1TV  (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_nr1tv/nr1tv_sd.smil/playlist.m3u8
+#EXTINF:0,NR1 TÜRK  (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_nr1turktv/nr1turktv_sd.smil/playlist.m3u8
+#EXTINF:0,DREAM TV  (720p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_dream/smil:dream_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:0,DREAM TÜRK  (720p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_dreamturk/smil:dreamturk_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:0,POWER TÜRK  (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_sd.smil/playlist.m3u8
+#EXTINF:0,POWER TV HD  (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_power/smil:power_sd.smil/playlist.m3u8
+#EXTINF:0,SLOW KARADENIZ TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://slowkaradeniztv.yayin.com.tr/slowkaradeniztv/smil:slowkaradeniztv.smil/playlist.m3u8
+#EXTINF:0,TRT MÜZİK  (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_trtmuzik/smil:trtmuzik_sd.smil/playlist.m3u8
+#EXTINF:0,TRT ÇOCUK  (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_sd.smil/playlist.m3u8
+#EXTINF:0,TRT TÜRK  (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_trtturk/trtturk_sd.smil/playlist.m3u8
+#EXTINF:0,EKOTÜRK TV  (720p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_ekoturk/smil:ekoturk_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:0,VUSLAT TV  (720p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_vuslattv/smil:vuslattv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:0,ER TV  (720p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_ertv/smil:ertv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:0,TRT Arabi  (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_trtarapca/smil:trtarapca_sd.smil/playlist.m3u8
+#EXTINF:0,TRT 1 FHD TR
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_sd.smil/playlist.m3u8
+#EXTINF:0,ATV HD-TR yt
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1617858184/ei/KDpuYIOoL8iC-gae2ZiAAw/ip/78.46.137.84/id/s4aKRcNTJZA.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r4---sn-4g5e6ns7.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/de/vprv/1/playlist_type/DVR/hcs/yes/mh/0Y/mm/44/mn/sn-4g5e6ns7/ms/lva/mv/m/mvi/4/pl/24/rmhost/r3---sn-4g5e6ns7.googlevideo.com/shardbypass/yes/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1617836451/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRQIgSoo8ieqc9gbHnxEWGkMbniwb5linLBuGq968gXLu0gECIQCaEn2Ai5qlO1VI_yUNvPXWGh630a4Z4nklrPwozb4CVg%3D%3D/lsparams/hls_chunk_host,hcs,mh,mm,mn,ms,mv,mvi,pl,rmhost,shardbypass/lsig/AG3C_xAwRgIhAPreJdoyuFzpC8sE6TMItfyFVtsZORh0kTd8AcUBJXNrAiEA4JJqhjOn2EazzdxGqcIrM8bgrCBAd5e_cVvWlQoqd9Q%3D/playlist/index.m3u8
+#EXTINF:0,360 TV HD-TR yt
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1617858185/ei/KTpuYIq-HYGE8gPs6rqoDA/ip/78.46.137.84/id/nJ4CE492J8w.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r5---sn-4g5e6nss.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/Fg/mm/44/mn/sn-4g5e6nss/ms/lva/mv/m/mvi/5/pl/24/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1617836451/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgLailJ90NWZW5al61Ckw92tpkxWNBQniOIjM-1fPZCAYCIAjwEV0uvK2UyGGtlEX5_T9i92mfBDGHJd0MrCY2gZXu/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgasUE48u3zyWQHHJrVi5FvACBNr-f0jvVgJOBTKXU620CIQCdSSvNsoDnCMv4GjWB8IqTrFQw5ytqKzr4eT2GnQfxjg%3D%3D/playlist/index.m3u8
+#EXTINF:0,KANAL 7 HD-TR yt
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_sd.smil/playlist.m3u8
+#EXTINF:0,BEYAZ TV dailymotion
+#EXTVLCOPT:network-caching=1000
+http://oz.yilmaztv.net/dailymotion.php?k=beyaztv&type=m3u8
+#EXTINF:0,STAR TV-TR yt
+#EXTVLCOPT:network-caching=1000
+https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/playlist.m3u8
+#EXTINF:0,A HABER-TR yt
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1617858188/ei/LDpuYKQbiJ7XAtjjt6AP/ip/78.46.137.84/id/nhIGJcvgQJo.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-4g5e6nzz.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/L2/mm/44/mn/sn-4g5e6nzz/ms/lva/mv/m/mvi/3/pl/24/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1617836451/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhAIC4n3o5zOPo73TKcIIygmRtarBAIAtpl2RyNibIxdPLAiASwecDmsz7C5w12y94-CUmvaMkMHtjbEM5-jcABU7rfA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgb3TOq4hN-jq0fDua1DHJFGce0L_eYXQpjFOjkkmmbJACIQCjXOrJbvyC-PkrPYKtK8ZGlLQ9zEKtRdmSj3gvG39YQw%3D%3D/playlist/index.m3u8
+#EXTINF:0,TVNET HD-TR yt
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1617858188/ei/LDpuYIKXHMeD1wLcz7ko/ip/78.46.137.84/id/Rx6Ddq1KpRY.3/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-4g5e6nzl.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/Xu/mm/44/mn/sn-4g5e6nzl/ms/lva/mv/m/mvi/3/pl/24/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1617836451/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgArheS_xVleLeMr30EE7l0Pu-17BV0ykXLAdZvzipjIoCIQDZhMA5D1cWE9wNpbpZEUWINIITfvSYaewUtDHGGJYa5Q%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgK9JuBhxa1HF6IJO1t80kqJs7-RY4a5PIX1ZUCO4roi4CIDt-WhGp1s6qcsoZAp2UUL2quF874n8Vwz7qMq0SqJGq/playlist/index.m3u8
+#EXTINF:0,TGRT HABER-TR yt
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1617858189/ei/LDpuYIePOcKD8gOmwIKQBQ/ip/78.46.137.84/id/IUbJokl9fjM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r3---sn-4g5e6ns6.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/Fd/mm/44/mn/sn-4g5e6ns6/ms/lva/mv/m/mvi/3/pl/24/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1617836451/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgCXryqFZMQ5lfEfOxA-d2kICMeqgcJUwl5bD4HRW57_UCIQDO_SHAsfUSub95hOBL6D0xoC1Kq7tTPs7yOxy1jK4SsA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgcJAk-xiuH6yIX4fdDqJNm3WtXRnnMTPdb-z9YME_jOECIB9ZDwMkEEpzbMn4XHmVOqses1Qjh8ClRkw_cICfuxmY/playlist/index.m3u8
+#EXTINF:0,TRT HABER HD-TR yt
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1617858189/ei/LTpuYP6vHJKm8gPagrHQBQ/ip/78.46.137.84/id/XdAzHI_Xeso.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-4g5e6nle.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/C3/mm/44/mn/sn-4g5e6nle/ms/lva/mv/m/mvi/3/pl/24/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1617836451/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAJ84d-az3xZG7AlkRSUdD7I8yMzIbRv1M_LOLkkplHKRAiEA5TRNhanfxs-X_q8d-6HgcOm-xNGwNR7czoX7WJANjM4%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgO1PCf2JB-sbwyaJJ-jTPa_185nnRYHoXysg6KMjZn6YCIFPYKAcx53Xqr77MavClNptdnS4eGpgCPPHHtkKaA72v/playlist/index.m3u8
+#EXTINF:0,NTV-TR yt
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1617858190/ei/LTpuYLSOPJX0gAfUxo74Cg/ip/78.46.137.84/id/XEJM4Hcgd3M.3/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r3---sn-4g5e6nsr.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/ay/mm/44/mn/sn-4g5e6nsr/ms/lva/mv/m/mvi/3/pl/24/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1617836451/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhAJ1L9evaHkgWhUCLusJxH4lInF8fCfzhfEh62h5YjyiaAiBKKsemH467pHiTYxVTKo_ap9phfbmi0dSGcd6nwGssTw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgX4EeRw1zfnbYFo8-fA5Uhv9xDCUvPA4wiJwN9eZhyb0CIHqqAxMqo9pC7qq9bK2LNwnqSu_vGljc6B1M_E69yR1I/playlist/index.m3u8
+#EXTINF:0,CNN TÜRK HD-TR yt
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1617858190/ei/LjpuYKipF52ox_APwsqy6As/ip/78.46.137.84/id/X_EWYemclKA.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r3---sn-4g5e6nss.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/JQ/mm/44/mn/sn-4g5e6nss/ms/lva/mv/m/mvi/3/pl/24/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1617836451/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAKvuX_OsmC_gw3Ya-GkgFC4Y36fBgWtBsv3rY6N9eH1fAiEAnrwkuQI1SXydqGBKwcBsrNCUfs65afXJw_YSkfNokMo%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAPpPkOcW0uhl2Mk4enwyCmwyTdv7JOsvH4z_kJGQ2ZN_AiEA8hZdInS32sN9AV4toBM8AG6I5EQOE7suYdMAUGN-9NQ%3D/playlist/index.m3u8
+#EXTINF:0,HABERTÜRK-TR yt
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1617858190/ei/LjpuYKTpMLavx_APjPWXoA4/ip/78.46.137.84/id/SqHIO2zhxbA.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r5---sn-4g5e6nzl.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/WS/mm/44/mn/sn-4g5e6nzl/ms/lva/mv/m/mvi/5/pl/24/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1617836451/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgLcDhEGGKJKHq02tv5JPrIBNX2UeSZB68nkdFIcoftZUCIHAjPIzWf3zxBlOLZlHgKQCMa0YjW9KErxR-2zlhei7J/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgD8lanEMXvZtMeKURa7Kdr46NYrlyw78nSbdMUG5nZwECIQDVIRdt2z9niXetmUBmxjJ4JovXXv79vYdGL3LEQtpwzQ%3D%3D/playlist/index.m3u8
+
 
