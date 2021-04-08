@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:0,Atv 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1617860634/ei/ukNuYIHYMomu1wK4qZ-IDA/ip/2001%3A9e8%3A4015%3A6c00%3Abdfe%3A20c7%3Accf5%3A37c4/id/s4aKRcNTJZA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/de/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOkgiw1JQwxnYaX8fBa8kMEc-mG07XxLatWvmGfQ51mfAiADz9j-8CVV8F5s0mEJKNlYN2ZYotY11e791Ry6zCy5qA%3D%3D/file/index.m3u8
+#EXTINF:47,ATV | Ulusal
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+#EXTVLCOPT:network-caching=1000
+https://www.yilmaztv.com/oz/oz.php?channel=atv-canli-hd-yayin&stream=2&id=13361&p=cb2a125bc6bf78c11494625198d53b1f&type=m3u8
 #EXTINF:0,Show TV
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 #EXTINF:0,EuroStar
