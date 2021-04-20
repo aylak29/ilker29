@@ -2,6 +2,9 @@
 #EXTINF:0,TR: beIN SPORTS 1 FHD
 #EXTVLCOPT:network-caching=1000
 http://zero2.site:8080/zero/zero/3
+#EXTINF:0,TR: beIN SPORTS 1 HD YEDEK
+#EXTVLCOPT:network-caching=1000
+http://zero2.site:8080/zero/zero/24
 #EXTINF:0,TR: beIN SPORTS 1 HD
 #EXTVLCOPT:network-caching=1000
 http://zero2.site:8080/zero/zero/4
@@ -62,9 +65,6 @@ http://zero2.site:8080/zero/zero/22
 #EXTINF:0,TR: NAT GEO WILD HD
 #EXTVLCOPT:network-caching=1000
 http://zero2.site:8080/zero/zero/23
-#EXTINF:0,TR: beIN SPORTS 1 HD YEDEK
-#EXTVLCOPT:network-caching=1000
-http://zero2.site:8080/zero/zero/24
 #EXTINF:0,TR: NATT
 #EXTVLCOPT:network-caching=1000
 http://zero2.site:8080/zero/zero/25
