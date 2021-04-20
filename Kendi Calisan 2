@@ -1,4 +1,79 @@
 #EXTM3U
+#EXTINF:0,TR: beIN SPORTS 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://zero2.site:8080/zero/zero/3
+#EXTINF:0,TR: beIN SPORTS 1 HD
+#EXTVLCOPT:network-caching=1000
+http://zero2.site:8080/zero/zero/4
+#EXTINF:0,TR: TRT 1 UHD
+#EXTVLCOPT:network-caching=1000
+http://zero2.site:8080/zero/zero/5
+#EXTINF:0,TR: ATV UHD
+#EXTVLCOPT:network-caching=1000
+http://zero2.site:8080/zero/zero/6
+#EXTINF:0,TR: FOX UHD
+#EXTVLCOPT:network-caching=1000
+http://zero2.site:8080/zero/zero/7
+#EXTINF:0,TR: TV8 UHD
+#EXTVLCOPT:network-caching=1000
+http://zero2.site:8080/zero/zero/8
+#EXTINF:0,TR: SHOW TV UHD
+#EXTVLCOPT:network-caching=1000
+http://zero2.site:8080/zero/zero/9
+#EXTINF:0,TR: STAR TV UHD
+#EXTVLCOPT:network-caching=1000
+http://zero2.site:8080/zero/zero/10
+#EXTINF:0,TR: KANALD UHD
+#EXTVLCOPT:network-caching=1000
+http://zero2.site:8080/zero/zero/11
+#EXTINF:0,TR: BEYAZTV HD
+#EXTVLCOPT:network-caching=1000
+http://zero2.site:8080/zero/zero/12
+#EXTINF:0,TR: TEVE 2 HD
+#EXTVLCOPT:network-caching=1000
+http://zero2.site:8080/zero/zero/14
+#EXTINF:0,TR: TV 8.5 HD
+#EXTVLCOPT:network-caching=1000
+http://zero2.site:8080/zero/zero/13
+#EXTINF:0,TR: 360 TV HD
+#EXTVLCOPT:network-caching=1000
+http://zero2.site:8080/zero/zero/15
+#EXTINF:0,TR: UCAN KUS
+#EXTVLCOPT:network-caching=1000
+http://zero2.site:8080/zero/zero/16
+#EXTINF:0,TR: TRT BELGESEL
+#EXTVLCOPT:network-caching=1000
+http://zero2.site:8080/zero/zero/17
+#EXTINF:0,TR: DMAX TV
+#EXTVLCOPT:network-caching=1000
+http://zero2.site:8080/zero/zero/18
+#EXTINF:0,TR: TLC TV
+#EXTVLCOPT:network-caching=1000
+http://zero2.site:8080/zero/zero/19
+#EXTINF:0,TR: KRALTV HD
+#EXTVLCOPT:network-caching=1000
+http://zero2.site:8080/zero/zero/20
+#EXTINF:0,TR: KRALPOP TV
+#EXTVLCOPT:network-caching=1000
+http://zero2.site:8080/zero/zero/21
+#EXTINF:0,TR: NATIONAL GEOGRAPHIC
+#EXTVLCOPT:network-caching=1000
+http://zero2.site:8080/zero/zero/22
+#EXTINF:0,TR: NAT GEO WILD HD
+#EXTVLCOPT:network-caching=1000
+http://zero2.site:8080/zero/zero/23
+#EXTINF:0,TR: beIN SPORTS 1 HD YEDEK
+#EXTVLCOPT:network-caching=1000
+http://zero2.site:8080/zero/zero/24
+#EXTINF:0,TR: NATT
+#EXTVLCOPT:network-caching=1000
+http://zero2.site:8080/zero/zero/25
+#EXTINF:0,****http://zero2.site****
+#EXTVLCOPT:network-caching=1000
+http://zero2.site:8080/zero/zero/1
+#EXTINF:0,TR: zero2.site
+#EXTVLCOPT:network-caching=1000
+http://zero2.site:8080/zero/zero/2
 #EXTINF:-1,DE| PRO 7 HD
 http://localhd.tv:8081/abtaria0206/LWwNyUDslN/11003
 #EXTINF:-1,DE| PROSIEBEN HD
