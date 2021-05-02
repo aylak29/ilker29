@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0,SRF 2
+https://iptvcat.com/my_list/s/5099627cafc18a8acd7f1030b5df276b.m3u8
 #EXTINF:0,BEIN SPORT 1
 https://b.pscdn.live/hls/bein-sports-1.m3u8
 #EXTINF:0,BEIN SPORT 2
