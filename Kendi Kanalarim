@@ -1,46 +1,287 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="beinsports1.tr" tvg-name="TR: BEIN SPORT 1 FHD" tvg-logo="https://pbs.twimg.com/profile_images/1124247345632354305/LKC9Riaw.png" group-title="Turkey",TR: BEIN SPORT 1 FHD
-http://bestbuyiptv.live:8080/live/winamca-ismailov1/TKA4BQHQ/26475.ts
-#EXTINF:-1 tvg-ID="beinsports1.tr" tvg-name="TR: beIN Sport 1 HD" tvg-logo="https://www.trzcacak.rs/myfile/detail/229-2293291_bein-sports-logo-small.png" group-title="Turkey",TR: beIN Sport 1 HD
-http://bestbuyiptv.live:8080/live/winamca-ismailov1/TKA4BQHQ/11778.ts
-#EXTINF:-1 tvg-ID="beinsports1.tr" tvg-name="TR: BEIN SPORT 1HD" tvg-logo="https://pbs.twimg.com/profile_images/1124247345632354305/LKC9Riaw.png" group-title="Turkey",TR: BEIN SPORT 1HD
-http://bestbuyiptv.live:8080/live/winamca-ismailov1/TKA4BQHQ/26476.ts
-#EXTINF:-1 tvg-ID="beinsports2.tr" tvg-name="TR: BEIN SPORT 2 FHD" tvg-logo="https://pbs.twimg.com/profile_images/1124247345632354305/LKC9Riaw.png" group-title="Turkey",TR: BEIN SPORT 2 FHD
-http://bestbuyiptv.live:8080/live/winamca-ismailov1/TKA4BQHQ/26474.ts
-#EXTINF:-1 tvg-ID="beinsports2.tr" tvg-name="TR: BEIN SPORT 2 HD" tvg-logo="https://pbs.twimg.com/profile_images/1124247345632354305/LKC9Riaw.png" group-title="Turkey",TR: BEIN SPORT 2 HD
-http://bestbuyiptv.live:8080/live/winamca-ismailov1/TKA4BQHQ/26469.ts
-#EXTINF:-1 tvg-ID="beinsports3.tr" tvg-name="TR: BEIN SPORT 3 FHD" tvg-logo="https://pbs.twimg.com/profile_images/1124247345632354305/LKC9Riaw.png" group-title="Turkey",TR: BEIN SPORT 3 FHD
-http://bestbuyiptv.live:8080/live/winamca-ismailov1/TKA4BQHQ/26473.ts
-#EXTINF:-1 tvg-ID="beinsports3.tr" tvg-name="TR: BEIN SPORT 3 HD" tvg-logo="https://pbs.twimg.com/profile_images/1124247345632354305/LKC9Riaw.png" group-title="Turkey",TR: BEIN SPORT 3 HD
-http://bestbuyiptv.live:8080/live/winamca-ismailov1/TKA4BQHQ/26468.ts
-#EXTINF:-1 tvg-ID="beinsports4.tr" tvg-name="TR: BEIN SPORT 4 FHD" tvg-logo="https://pbs.twimg.com/profile_images/1124247345632354305/LKC9Riaw.png" group-title="Turkey",TR: BEIN SPORT 4 FHD
-http://bestbuyiptv.live:8080/live/winamca-ismailov1/TKA4BQHQ/26472.ts
-#EXTINF:-1 tvg-ID="beinsports4.tr" tvg-name="TR: BEIN SPORT 4 HD" tvg-logo="https://pbs.twimg.com/profile_images/1124247345632354305/LKC9Riaw.png" group-title="Turkey",TR: BEIN SPORT 4 HD
-http://bestbuyiptv.live:8080/live/winamca-ismailov1/TKA4BQHQ/26467.ts
-#EXTINF:-1 tvg-ID="24.tr" tvg-name="TR: BEIN SPORT MAX 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/1124247345632354305/LKC9Riaw.png" group-title="Turkey",TR: BEIN SPORT MAX 1 HD
-http://bestbuyiptv.live:8080/live/winamca-ismailov1/TKA4BQHQ/26466.ts
-#EXTINF:-1 tvg-ID="24.tr" tvg-name="TR: BEIN SPORT MAX 2 HD" tvg-logo="https://pbs.twimg.com/profile_images/1124247345632354305/LKC9Riaw.png" group-title="Turkey",TR: BEIN SPORT MAX 2 HD
-http://bestbuyiptv.live:8080/live/winamca-ismailov1/TKA4BQHQ/26465.ts
-#EXTINF:-1 tvg-ID="bein.sports.1.tr" tvg-name="TR: Bein sports  1 HD (Backup)" tvg-logo="https://pbs.twimg.com/profile_images/1124247345632354305/LKC9Riaw.png" group-title="Turkey",TR: Bein sports  1 HD (Backup)
-http://bestbuyiptv.live:8080/live/winamca-ismailov1/TKA4BQHQ/19304.ts
-#EXTINF:-1 tvg-ID="beinsports1.tr" tvg-name="TR: beIN SPORTS 1 HD Ã¯Â¿Â½" tvg-logo="https://i.pinimg.com/originals/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg" group-title="Turkey",TR: beIN SPORTS 1 HD Ã¯Â¿Â½
-http://bestbuyiptv.live:8080/live/winamca-ismailov1/TKA4BQHQ/16160.ts
-#EXTINF:-1 tvg-ID="bein.sports.2.tr" tvg-name="TR: beIN SPORTS 2 HD" tvg-logo="https://i.pinimg.com/originals/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg" group-title="Turkey",TR: beIN SPORTS 2 HD
-http://bestbuyiptv.live:8080/live/winamca-ismailov1/TKA4BQHQ/16159.ts
-#EXTINF:-1 tvg-ID="bein.sports.2.tr" tvg-name="TR: Bein sports  2 HD (Backup)" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/37/Image/205_salon02-son.png" group-title="Turkey",TR: Bein sports  2 HD (Backup)
-http://bestbuyiptv.live:8080/live/winamca-ismailov1/TKA4BQHQ/19303.ts
-#EXTINF:-1 tvg-ID="bein.sports.3.tr" tvg-name="TR: beIN SPORTS 3 HD" tvg-logo="https://i.pinimg.com/originals/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg" group-title="Turkey",TR: beIN SPORTS 3 HD
-http://bestbuyiptv.live:8080/live/winamca-ismailov1/TKA4BQHQ/16161.ts
-#EXTINF:-1 tvg-ID="bein.sports.3.tr" tvg-name="TR: Bein sports  3 HD (Backup)" tvg-logo="https://pbs.twimg.com/profile_images/1124247345632354305/LKC9Riaw.png" group-title="Turkey",TR: Bein sports  3 HD (Backup)
-http://bestbuyiptv.live:8080/live/winamca-ismailov1/TKA4BQHQ/19302.ts
-#EXTINF:-1 tvg-ID="bein.sports.4.tr" tvg-name="TR: beIN SPORTS 4 HD" tvg-logo="https://i.pinimg.com/originals/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg" group-title="Turkey",TR: beIN SPORTS 4 HD
-http://bestbuyiptv.live:8080/live/winamca-ismailov1/TKA4BQHQ/16162.ts
-#EXTINF:-1 tvg-ID="bein.sports.4.tr" tvg-name="TR: Bein sports  4 HD (Backup)" tvg-logo="https://pbs.twimg.com/profile_images/1124247345632354305/LKC9Riaw.png" group-title="Turkey",TR: Bein sports  4 HD (Backup)
-http://bestbuyiptv.live:8080/live/winamca-ismailov1/TKA4BQHQ/19301.ts
-#EXTINF:-1 tvg-ID="bein.sports.haber.tr" tvg-name="TR: beIN Sports Haber FHD" tvg-logo="https://i.pinimg.com/originals/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg" group-title="Turkey",TR: beIN Sports Haber FHD
-http://bestbuyiptv.live:8080/live/winamca-ismailov1/TKA4BQHQ/40107.ts
-#EXTINF:-1 tvg-ID="bein.sports.haber.tr" tvg-name="TR: beIN SPORTS Haber HD" tvg-logo="https://i.pinimg.com/originals/2b/63/38/2b63383e81a408ae91749f92d232935a.jpg" group-title="Turkey",TR: beIN SPORTS Haber HD
-http://bestbuyiptv.live:8080/live/winamca-ismailov1/TKA4BQHQ/40106.ts
+#EXTINF:0,[TR] Bein Sport 1
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25741
+#EXTINF:0,[TR] Bein Sport 2
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25740
+#EXTINF:0,[TR] Bein Sport 3
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25739
+#EXTINF:0,[TR] Bein Sport 4
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25738
+#EXTINF:0,[TR] ATV FHD
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25681
+#EXTINF:0,[TR] ATV HD
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25680
+#EXTINF:0,[TR] Star TV FHD
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25605
+#EXTINF:0,[TR] Star TV HD
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25606
+#EXTINF:0,[TR] Show TV FHD
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25610
+#EXTINF:0,[TR] Show TV HD
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25611
+#EXTINF:0,[TR] Show Max
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25609
+#EXTINF:0,[TR] Kanal D FHD
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/31929
+#EXTINF:0,[TR] Kanal D
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25642
+#EXTINF:0,[TR] Fox TV FHD
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25657
+#EXTINF:0,[TR] Fox TV HD
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25658
+#EXTINF:0,[TR] TRT 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25599
+#EXTINF:0,[TR] TRT Belgesel FHD
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25598
+#EXTINF:0,[TR] Kanal 7 HD
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25646
+#EXTINF:0,[TR] Kanal 7 Avrupa
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25644
+#EXTINF:0,[TR] TV 8 FHD
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25590
+#EXTINF:0,[TR] TV 8 HD
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25591
+#EXTINF:0,[TR] A Haber
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25687
+#EXTINF:0,[TR] TRT Haber
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25595
+#EXTINF:0,[TR] TRT Haber HD
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25717
+#EXTINF:0,[TR] Cnn Turk FHD
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25666
+#EXTINF:0,[TR] Cnn Turk HD
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25667
+#EXTINF:0,[TR] NTV HD
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25621
+#EXTINF:0,[TR] Haber Turk
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25654
+#EXTINF:0,[TR] TGRT Haber
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25600
+#EXTINF:0,[TR] Bloomberg
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25675
+#EXTINF:0,[TR] Nat Geo Wild HD
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25696
+#EXTINF:0,[TR] Animal Planet HD
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25711
+#EXTINF:0,[TR] Yaban TV
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25575
+#EXTINF:0,[TR] Discovery HD
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25710
+#EXTINF:0,[TR] A2 TV HD
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25685
+#EXTINF:0,[TR] Teve 2 HD
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25729
+#EXTINF:0,[TR] A SPOR HD
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25695
+#EXTINF:0,[TR] Sport TV
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25607
+#EXTINF:0,[TR] TRT Spor HD
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25718
+#EXTINF:0,[TR] Euro Sport 1 HD
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25656
+#EXTINF:0,[TR] Euro Sport 2 HD
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25660
+#EXTINF:0,[TR] Nat Geo HD
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25723
+#EXTINF:0,[TR] Tele
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/12518
+#EXTINF:0,[TR] DMAX
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/24285
+#EXTINF:0,[TR] TV Net
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/24292
+#EXTINF:0,5 TR" tvg-name="[TR] TV 8 - 5 HD" tvg-logo="https://xpic.webox-eg.com/tr/tv8bucuk.jpg" group-title="Turkish",[TR] TV 8,5 HD
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/24294
+#EXTINF:0,[TR] GS TV
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/24296
+#EXTINF:0,[TR] Ulke TV
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25581
+#EXTINF:0,[TR] Smart Spor 1
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/24288
+#EXTINF:0,[TR] Minica Go
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25583
+#EXTINF:0,[TR] TV 41
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25585
+#EXTINF:0,[TR] TV 5
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25587
+#EXTINF:0,[TR] TRT ARAPÇA
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25592
+#EXTINF:0,[TR] TRT MUZIK
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25594
+#EXTINF:0,[TR] Planet Cocuk
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25616
+#EXTINF:0,[TR] NR1 TURK HD
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25622
+#EXTINF:0,[TR] Minika Cocuk
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25623
+#EXTINF:0,[TR] Kral TV
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25630
+#EXTINF:0,[TR] Kral POP TV
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25631
+#EXTINF:0,[TR] Kanal T
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25643
+#EXTINF:0,[TR] Kanal 3
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25648
+#EXTINF:0,[TR] TRT World
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25651
+#EXTINF:0,[TR] Halk TV
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25653
+#EXTINF:0,[TR] FB TV
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25661
+#EXTINF:0,[TR] BBC Earth
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25662
+#EXTINF:0,[TR] Dream TV
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25663
+#EXTINF:0,[TR] Dream Turk
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25664
+#EXTINF:0,[TR] Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25665
+#EXTINF:0,[TR] History
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25668
+#EXTINF:0,[TR] Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25672
+#EXTINF:0,[TR] TLC
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25678
+#EXTINF:0,[TR] TRT Turk
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25691
+#EXTINF:0,[TR] Discovery IDX HD
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25709
+#EXTINF:0,[TR] Power Turk
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25712
+#EXTINF:0,[TR] TRT Avaz
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25714
+#EXTINF:0,[TR] TRT Cocuk
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25715
+#EXTINF:0,[TR] TRT Diyanet
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25716
+#EXTINF:0,[TR] TRT Muzik HD
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25719
+#EXTINF:0,[TR] Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25721
+#EXTINF:0,[TR]  Kanal 24 FHD
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25724
+#EXTINF:0,[TR] BJK TV
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25736
+#EXTINF:0,[TR] Bengu Turk
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25737
+#EXTINF:0,[TR] beIN Series Comedy
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/31321
+#EXTINF:0,[TR] beIN Movies Stars
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/31322
+#EXTINF:0,[TR] beIN Movies Premiere 2
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/31325
+#EXTINF:0,[TR] beIN Movies Family
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/31326
+#EXTINF:0,[TR] beIN Movies  Premiere 1
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/31327
+#EXTINF:0,[TR] beIN Movies Turk
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/31329
+#EXTINF:0,[TR] beIN Movies Action 2
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/31335
+#EXTINF:0,[TR] beIN Movies Action
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/31336
+#EXTINF:0,[TR] Tivibu  Spor 2
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/31930
+#EXTINF:0,[TR] Tivibu  Spor 1
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/31931
+#EXTINF:0,[TR] beIN Sports Haber
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/31963
+#EXTINF:0,[TR] 360 TV HD
+#EXTVLCOPT:network-caching=1000
+http://8018.mine.nu:9900/mytvonline/pa3w0qg0do/25688
+
 #EXTINF:0,BEIN SPORT 1
 https://b.pscdn.live/hls/bein-sports-1.m3u8
 #EXTINF:0,BEIN SPORT 2
