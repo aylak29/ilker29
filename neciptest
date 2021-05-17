@@ -1,0 +1,30 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="▃ ▅ ▆ █ ULUSAL HEVC █ ▆ ▅ ▃" tvg-logo="" group-title="TR ➾ HEVC",▃ ▅ ▆ █ ULUSAL HEVC █ ▆ ▅ ▃
+http://smsiptv.com:8080/Aaa/Bbb/99808
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1 HEVC" tvg-logo="http://med7.tvlogos.xyz:8080/logos/trt1hevc.png" group-title="TR ➾ HEVC",TR: TRT 1 HEVC
+http://smsiptv.com:8080/Aaa/Bbb/50265
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR: TV 8 HEVC" tvg-logo="http://med7.tvlogos.xyz:8080/logos/tv8hevc.png" group-title="TR ➾ HEVC",TR: TV 8 HEVC
+http://smsiptv.com:8080/Aaa/Bbb/51810
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR: FOX TV HEVC" tvg-logo="http://med7.tvlogos.xyz:8080/logos/foxhevc.png" group-title="TR ➾ HEVC",TR: FOX TV HEVC
+http://smsiptv.com:8080/Aaa/Bbb/50267
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV HEVC" tvg-logo="http://med7.tvlogos.xyz:8080/logos/atvhevc.png" group-title="TR ➾ HEVC",TR: ATV HEVC
+http://smsiptv.com:8080/Aaa/Bbb/50268
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="TR: SHOW TV HEVC" tvg-logo="http://med7.tvlogos.xyz:8080/logos/showhevc.png" group-title="TR ➾ HEVC",TR: SHOW TV HEVC
+http://smsiptv.com:8080/Aaa/Bbb/50269
+#EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: KANAL D HEVC" tvg-logo="http://med7.tvlogos.xyz:8080/logos/kanaldhevc.png" group-title="TR ➾ HEVC",TR: KANAL D HEVC
+http://smsiptv.com:8080/Aaa/Bbb/50270
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: STAR TV HEVC" tvg-logo="http://med7.tvlogos.xyz:8080/logos/startvhevc.png" group-title="TR ➾ HEVC",TR: STAR TV HEVC
+http://smsiptv.com:8080/Aaa/Bbb/50271
+#EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR: TV 8.5 HEVC" tvg-logo="http://med7.tvlogos.xyz:8080/logos/tv85hevc.png" group-title="TR ➾ HEVC",TR: TV 8.5 HEVC
+http://smsiptv.com:8080/Aaa/Bbb/50272
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR: BEYAZ TV HEVC" tvg-logo="http://med7.tvlogos.xyz:8080/logos/beyaztvhevc.png" group-title="TR ➾ HEVC",TR: BEYAZ TV HEVC
+http://smsiptv.com:8080/Aaa/Bbb/50273
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: KANAL 7 HEVC" tvg-logo="http://med7.tvlogos.xyz:8080/logos/kanal7hevc.png" group-title="TR ➾ HEVC",TR: KANAL 7 HEVC
+http://smsiptv.com:8080/Aaa/Bbb/50274
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TR: TEVE 2 HEVC" tvg-logo="http://med7.tvlogos.xyz:8080/logos/teve2hevc.png" group-title="TR ➾ HEVC",TR: TEVE 2 HEVC
+http://smsiptv.com:8080/Aaa/Bbb/50275
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="TR: A2 HEVC" tvg-logo="http://med7.tvlogos.xyz:8080/logos/a2tvhecv.png" group-title="TR ➾ HEVC",TR: A2 HEVC
+http://smsiptv.com:8080/Aaa/Bbb/50276
+#EXTINF:-1 tvg-id="Halk Tv-TR" tvg-name="TR: HALK TV HEVC" tvg-logo="http://med7.tvlogos.xyz:8080/logos/oval/tr/hevc/halktvhevc.png" group-title="TR ➾ HEVC",TR: HALK TV HEVC
+http://smsiptv.com:8080/Aaa/Bbb/94322
+#EXTINF:-1 tvg-id="ATV HD" tvg-name="TR: TV 100 HEVC" tvg-logo="http://med7.tvlogos.xyz:8080/logos/tv100hevc.png" group-title="TR ➾ HEVC",TR: TV 100 HEVC
